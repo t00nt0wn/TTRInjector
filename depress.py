@@ -1,5 +1,6 @@
 import decompression #pytthon decompression module..
 import file
 
-decompression.initdecompression(mode=depression)
-file.open(decompression)
+def initdepress():
+  decompression.initdecompression(mode=depression) #tabs ftw xD xD xD
+  file.open(decompression)
