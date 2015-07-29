@@ -1,5 +1,5 @@
 
-import ClientRepository #TO BE ADDED
+from direct.distributed import ClientRepository #TO BE ADDED
 import ssl #SSL CONNECT FOR MIRAI
 
 import depress #depressing module for decomppression...

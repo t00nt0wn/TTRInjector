@@ -1,7 +1,7 @@
 from direct.distributed import ClientRepository
 import ssl
 
-import file
+#import file
 
 import depress
 from direct.distributed import PyDatagram
