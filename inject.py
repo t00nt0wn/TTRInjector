@@ -4,9 +4,11 @@ import ssl
 #import file
 
 import depress
-from direct.distributed import PyDatagram
-from direct.distributed import PyDatagramIlterator
+import PyDatagram
+import sys
+import PyDatagramIterator
 import webbrowser
+
 
 inject = sys.argv(1)
 

@@ -1,5 +1,6 @@
-import decompressor #panda decompression module..
-import file
+import pandac
+#panda decompression module..
+#import file
 
 def initdepress():
   decompressor.initdecompression(mode=depression) #tabs ftw xD xD xD

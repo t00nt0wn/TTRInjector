@@ -4,7 +4,7 @@ import ssl #SSL CONNECT FOR MIRAI
 
 import depress #depressing module for decomppression...
 
-import file
+#import file
 
 import webbrowser
 
