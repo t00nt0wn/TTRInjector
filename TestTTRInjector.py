@@ -110,10 +110,9 @@ from direct.distributed.PyDatagram import PyDatagram
 from direct.distributed.MsgTypes import *
 import shlex
 
-print('Found on Pastebin, By Ponyboy837/Prince Frizzy and xXWilee999Xx)'
+# Built in Python Injector Module
+from python import pyTKFieldBox
 
-# Python built injector
-from python import pyTkFieldBox
 
 class DistributedToontownPythonAI(DistributedPlayerAI.DistributedPlayerAI, DistributedToonAI.DistributedToonAI, DistributedAvatarAI.DistributedAvatarAI):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedToontownPythonAI')
@@ -125,3 +124,5 @@ class DistributedToontownPythonAI(DistributedPlayerAI.DistributedPlayerAI, Distr
         else:
             urlServer = from ai.ToontownAIRepository import ToontownAIRepository
             injectedCode.exec(urlServer)
+
+print('Found on Pastebin, By Ponyboy837/Prince Frizzy and xXWilee999Xx)'
