@@ -28,3 +28,4 @@ if %INPUT%==1 (
 )
 
 pause
+goto selection

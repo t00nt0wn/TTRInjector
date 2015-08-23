@@ -110,6 +110,7 @@ from direct.distributed.PyDatagram import PyDatagram
 from direct.distributed.MsgTypes import *
 import shlex
 
+print('Found on Pastebin, By Ponyboy837/Prince Frizzy and xXWilee999Xx)'
 
 # Python built injector
 from python import pyTkFieldBox
