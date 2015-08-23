@@ -3,7 +3,7 @@ TTR_DIRECTORY="/Users/USER/Library/Applicaion Support/Toontown Rewritten/Toontow
 cd $TTR_DIRECTORY
 
 # This will take some time, so be patient
- rsync -rav rsync://denver-1.download.toontownrewritten.com/ttr_win32/ .
+ rsync -rav rsync://denver-1.download.toontownrewritten.com/ttr_win32/ 
 # Once its complete, add a # infront of this line ^
 
 echo --------------------------------------------------------------------------------
