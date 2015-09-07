@@ -1,6 +1,6 @@
 import sys
 
-print('Testing 123.')
+print 'Testing 123.'
 
 class TTRInjector:
     def __init__(self):
